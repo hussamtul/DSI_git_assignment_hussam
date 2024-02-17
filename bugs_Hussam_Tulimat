@@ -1,0 +1,32 @@
+When creating a GitHub Issue or bug report, include the following key items for developers:
+
+Title:
+
+Concise summary of the issue.
+Description:
+
+Detailed explanation of the problem or feature request.
+Steps to Reproduce:
+
+Clear steps to recreate the issue.
+Environment Details:
+
+Operating system, browser, or relevant software versions.
+Screenshots or Code Snippets:
+
+Visual aids for better understanding.
+Expected vs. Actual Behavior:
+
+Clearly state expected outcome versus observed result.
+Reproducibility:
+
+Indicate if the issue is consistent or sporadic.
+Logs and Error Messages:
+
+Include relevant logs or error messages.
+Version Information:
+
+Specify the version of the software or application.
+Labels:
+
+Add appropriate labels for categorization.
